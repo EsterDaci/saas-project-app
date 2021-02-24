@@ -12,6 +12,7 @@ gem 'milia'
 # Use Puma as the app server
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
