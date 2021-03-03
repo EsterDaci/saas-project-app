@@ -13,6 +13,7 @@ gem 'milia'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-datepicker-rails'
+gem 'stripe'
 
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
